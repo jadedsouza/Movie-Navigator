@@ -1,1 +1,1 @@
-Put screenshots of your Android app here.
+Screenshots of what my application looks like!
