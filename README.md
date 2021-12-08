@@ -1,4 +1,4 @@
-# Media Browser
+# Movie Navigator
 
 This repository contains code for a Kotlin app that displays information about a set of movies.
 <br>
